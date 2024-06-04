@@ -18,7 +18,7 @@
     </div>
 
     <div id="div-acesso" class="div-header">
-        <a id="experimente" class="bold" href="#">Experimente Grátis</a>
+        <a id="experimente" class="bold" href="RegisterPage.php">Experimente Grátis</a>
         <a href="#" id="entrar" class="bold">Entrar </a>
     </div>
 </header>
