@@ -1,0 +1,95 @@
+{
+    "notas": [
+        {
+            "num": 10105,
+            "cliente": "Ambipar",
+            "valor": 5000.20,
+            "tipo": "E",
+            "data": "07/06/2024",
+            "descricao": "Prestação de serviço"
+        },
+        {
+            "num": 10104,
+            "cliente": "Willians Santos",
+            "valor": 1241.00,
+            "tipo": "S",
+            "data": "07/06/2024",
+            "descricao": "Venda de produto"
+        },
+        {
+            "num": 10103,
+            "cliente": "Josemar Tenório",
+            "valor": 233.00,
+            "tipo": "E",
+            "data": "07/06/2024",
+            "descricao": "Venda de produto"
+        },
+        {
+            "num": 10102,
+            "cliente": "Alberto Sino",
+            "valor": 2336.00,
+            "tipo": "S",
+            "data": "07/06/2024",
+            "descricao": "Prestação de serviço"
+        },
+        {
+            "num": 10101,
+            "cliente": "Ambipar",
+            "valor": 1234.00,
+            "tipo": "S",
+            "data": "07/06/2024",
+            "descricao": "Prestação de serviço"
+        },
+        {
+            "num": 10103,
+            "cliente": "Josemar Tenório",
+            "valor": 233.00,
+            "tipo": "E",
+            "data": "07/06/2024",
+            "descricao": "Venda de produto"
+        },
+        {
+            "num": 10102,
+            "cliente": "Alberto Sino",
+            "valor": 2336.00,
+            "tipo": "S",
+            "data": "07/06/2024",
+            "descricao": "Prestação de serviço"
+        },
+        {
+            "num": 10101,
+            "cliente": "Ambipar",
+            "valor": 1234.00,
+            "tipo": "S",
+            "data": "07/06/2024",
+            "descricao": "Prestação de serviço"
+        }
+        ,
+        {
+            "num": 10103,
+            "cliente": "Josemar Tenório",
+            "valor": 233.00,
+            "tipo": "E",
+            "data": "07/06/2024",
+            "descricao": "Venda de produto"
+        },
+        {
+            "num": 10102,
+            "cliente": "Alberto Sino",
+            "valor": 2336.00,
+            "tipo": "S",
+            "data": "07/06/2024",
+            "descricao": "Prestação de serviço"
+        },
+        {
+            "num": 10101,
+            "cliente": "Ambipar",
+            "valor": 1234.00,
+            "tipo": "S",
+            "data": "07/06/2024",
+            "descricao": "Prestação de serviço"
+        }
+
+
+    ]
+}
